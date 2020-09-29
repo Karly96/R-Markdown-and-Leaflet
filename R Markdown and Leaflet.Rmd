@@ -1,8 +1,8 @@
 ---
 title: "R Markdown and Leaflet"
 output: html_document
-author: Xinyu Li
-date: 2017/5/20 
+author: Karla Ruso Torres
+date: 2020/9/29
 ---
 
 ```{r setup, include=FALSE}
